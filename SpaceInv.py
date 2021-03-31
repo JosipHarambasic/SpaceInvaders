@@ -42,6 +42,7 @@ player.speed(0)
 player.setposition(0, -250)
 player.setheading(90)
 
+#hello
 # movement of the player
 playerSpeed = 15
 
